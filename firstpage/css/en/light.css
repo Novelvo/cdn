@@ -5,7 +5,7 @@
 
     .novelvo .first {
         font-family: 'Titillium Web', sans-serif;
-        background: url('../img/lighbg.jpg') no-repeat center center;
+        background: url('../../img/lighbg.jpg') no-repeat center center;
         -webkit-background-size: cover;
         -moz-background-size: cover;
         background-size: cover;
