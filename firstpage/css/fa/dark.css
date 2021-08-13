@@ -5,7 +5,7 @@
     }
 
     .novelvo .first {
-        background: url('../img/darkbg.jpg') no-repeat center center;
+        background: url('../../img/darkbg.jpg') no-repeat center center;
         -webkit-background-size: cover;
         -moz-background-size: cover;
         background-size: cover;
