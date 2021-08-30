@@ -1,6 +1,11 @@
 @font-face {
+    font-family: iransans;
+    src: url("../../font/iransans/iransans.ttf");
+}
+
+@font-face {
     font-family: vazir;
-    src: url("../../font/Vazir.ttf");
+    src: url("../../font/vazir/Vazir.ttf");
 }
 
 body {
