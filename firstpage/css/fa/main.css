@@ -1,7 +1,7 @@
 @font-face {
     font-family: iransans;
-    src: url("novelvo.github.io/cdn.novelvo.ir/firstpage/font/iransans/iransans.ttf");
-    src: url("../../font/iransans/iransans.ttf");
+    src: url("https://novelvo.github.io/cdn.novelvo.ir/firstpage/font/iransans/iransans.ttf");
+    /* src: url("../../font/iransans/iransans.ttf"); */
 }
 
 @font-face {
